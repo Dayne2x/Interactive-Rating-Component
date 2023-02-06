@@ -28,7 +28,7 @@ This is a solution to the [Interactive Rating Component challenge on Frontend Me
 ### Links
 
 - Solution URL: [GitHub Code](https://github.com/Dayne2x/Social-Proof-Section)
-- Live Site URL: [GitHub Pages Live URL](https://dayne2x.github.io/Social-Proof-Section/)
+- Live Site URL: [GitHub Pages Live URL](https://dayne2x.github.io/Interactive-Rating-Component/)
 
 ## My process
 
